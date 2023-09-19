@@ -22,7 +22,7 @@ Some applications are included in this program :
 - The function trianglepascal generates the n first lines of Pascal's triangle by developping
   (1+x)^n and picking the coefficients of the obtained polynomial.
 - The function interpolation implements Lagrange's polynomial interpolation technique.
-  Given a list of n instances of either the Complex or Fraction class, it shows the
+  Given a list of n instances of either the Complex or Point class, it shows the
   graph and the equation of the polynomial of degree n-1 or under which interpolates
   the given list of points.
 - The function bezcurve builds the parametric complex equation of the Bezier curve formed
