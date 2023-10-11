@@ -29,3 +29,11 @@ Some applications are included in this program :
   by a given list of n complex number or points.
 - The function sum_k_pow gives, for n a positive integer , the expression of the sum of the
   k^n under a polynomial form.
+
+***********************************************************************************
+
+Here are some other possible applications you might enjoy digging in by yourself :
+- Making a recursive implementation of the Fibonacci-ratio sequence F(n+1)/F(n), where
+  F(n) is the n-th term of the Fibonacci sequence. Turning the number into float after
+  some iterations will give a pretty good approximation of the Golden Ratio.
+- 
