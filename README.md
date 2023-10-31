@@ -33,6 +33,7 @@ Some applications are included in this program :
 ***********************************************************************************
 
 Here are some other possible applications you might enjoy digging in by yourself :
-- Making a recursive implementation of the Fibonacci-ratio sequence F(n+1)/F(n), where
-  F(n) is the n-th term of the Fibonacci sequence. Turning the number into float after
-  some iterations will give a pretty good approximation of the Golden Ratio.
+- Making a recursive implementation of the Fibonacci-ratio sequence Q(n) = F(n+1)/F(n), where
+  F(n) is the n-th term of the Fibonacci sequence. It is given by the following recurrent formula :
+  Q(n+1) = 1+1/Q(n). Turning the number into float after some iterations will give a pretty good
+  approximation of the Golden Ratio.
