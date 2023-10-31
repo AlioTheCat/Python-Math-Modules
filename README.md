@@ -11,7 +11,7 @@ This series of modules includes :
   either to use the syntax Complex(a,b) or a+i*b (where i is the instance Complex(0,1))
   Note that by default, any real number x is considered as the complex Complex(x,0)
 - A class that implements Points in a plane 2D surface. This implementation is analogous
-  to the implementation of Complex numbers, an many methods for Points use Complex.
+  to the implementation of Complex numbers, and many methods for the class Points use Complex.
 - A class that implements Polynomials. They can be multiplied, added, raised to any power.
   Coefficients can be real, fractionnal, and even complex. Rational fractions of polynomials
   are not yet implemented. You may also use composition between two Polynomials 
@@ -36,4 +36,3 @@ Here are some other possible applications you might enjoy digging in by yourself
 - Making a recursive implementation of the Fibonacci-ratio sequence F(n+1)/F(n), where
   F(n) is the n-th term of the Fibonacci sequence. Turning the number into float after
   some iterations will give a pretty good approximation of the Golden Ratio.
-- 
